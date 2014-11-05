@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Hope you are enjoying he class?
+=======
+tits
+
+Eggs myEggs = new Eggs();
+>>>>>>> 644aacd2d4391cd37028cded3eac7bcb193c83e9
